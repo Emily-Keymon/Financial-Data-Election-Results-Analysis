@@ -2,7 +2,6 @@
 
 ## PyBank
 
-![Revenue](Images/revenue-per-lead.png)
 
 * Created a Python script for analyzing the financial records of a company.
 
@@ -22,7 +21,6 @@
 
 ## PyPoll
 
-![Vote-Counting](Images/Vote_counting.png)
 
 * Helped a small, rural town modernize its vote-counting process.
 
