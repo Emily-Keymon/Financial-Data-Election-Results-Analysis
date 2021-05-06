@@ -9,6 +9,10 @@ The goal of this project was to identify the candidates, vote totals, vote distr
 https://github.com/Emily-Keymon/Financial-Data-Election-Results-Analysis/blob/master/PyBank/Resources/PyBank_Resources_budget_data.csv
 
 ---
+## Tools Used
+* Python
+
+---
 ## Tasks
   * Created a Python script for analyzing the financial records of a company.
 
