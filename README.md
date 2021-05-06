@@ -4,7 +4,7 @@ The goal of this project was to identify the candidates, vote totals, vote distr
 
 ---
 
-## Election Results Analysis
+## Financial Data Analysis
 
 * Created a Python script for analyzing the financial records of a company.
 
@@ -22,7 +22,9 @@ The goal of this project was to identify the candidates, vote totals, vote distr
 
 * Printed the analysis to the terminal and exported a text file with the results.
 
-## PyPoll
+---
+## Election Results Analysis
+
 
 
 * Helped a small, rural town modernize its vote-counting process.
