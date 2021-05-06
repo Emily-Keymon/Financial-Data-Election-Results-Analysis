@@ -37,4 +37,7 @@
   * The winner of the election based on popular vote.
 
 ## Results
+### Election Results
+![election_results](https://user-images.githubusercontent.com/64673015/117226687-cbe21800-adda-11eb-91aa-eba26546eaee.PNG)
+
 
