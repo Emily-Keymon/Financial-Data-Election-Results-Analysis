@@ -5,6 +5,10 @@
 The goal of this project was to identify the candidates, vote totals, vote distribution, and overall winner of an election. Since the baseline data was provided in CSV format, Python was used to clean and process the data, as well as calculate the desired outputs.
 
 ---
+## Dataset
+https://github.com/Emily-Keymon/Financial-Data-Election-Results-Analysis/blob/master/PyBank/Resources/PyBank_Resources_budget_data.csv
+
+---
 ## Tasks
   * Created a Python script for analyzing the financial records of a company.
 
@@ -32,6 +36,10 @@ The goal of this project was to identify the candidates, vote totals, vote distr
 
 ## Election Results Analysis
 The goal of this project was to identify the net total of, average change in, greatest increase in, and greatest decrease in a set of financial profit data. Since the baseline data was provided in CSV format, Python was used to clean and process the data, as well as calculate the desired outputs.
+
+---
+## Dataset
+https://github.com/Emily-Keymon/Financial-Data-Election-Results-Analysis/blob/master/PyPoll/Resources/PyPoll_Resources_election_data.csv
 
 ---
 ## Tasks
