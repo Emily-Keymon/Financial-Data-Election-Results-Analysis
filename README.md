@@ -58,6 +58,4 @@ The goal of this project was to identify the net total of, average change in, gr
 
 
 
-![financial_analysis](https://user-images.githubusercontent.com/64673015/117226726-e1574200-adda-11eb-9c51-b7741d403020.PNG)
-
 
