@@ -37,11 +37,10 @@
   * The winner of the election based on popular vote.
 
 # Results
-## Election Results
+
 ![election_results](https://user-images.githubusercontent.com/64673015/117226687-cbe21800-adda-11eb-91aa-eba26546eaee.PNG)
 
----
-## Financial Analysis
+
 ![financial_analysis](https://user-images.githubusercontent.com/64673015/117226726-e1574200-adda-11eb-9c51-b7741d403020.PNG)
 
 
