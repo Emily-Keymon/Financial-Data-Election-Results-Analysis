@@ -1,7 +1,10 @@
 # Financial Data/Election Results Analysis
 
-## PyBank
+The goal of this project was to identify the candidates, vote totals, vote distribution, and overall winner of an election. Since the baseline data was provided in CSV format, Python was used to clean and process the data, as well as calculate the desired outputs.
 
+---
+
+## Financial Analysis
 
 * Created a Python script for analyzing the financial records of a company.
 
