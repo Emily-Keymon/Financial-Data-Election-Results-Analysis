@@ -28,7 +28,7 @@ The goal of this project was to identify the candidates, vote totals, vote distr
 ![financial_analysis](https://user-images.githubusercontent.com/64673015/117226726-e1574200-adda-11eb-9c51-b7741d403020.PNG)
 
 
---
+---
 
 ## Election Results Analysis
 The goal of this project was to identify the net total of, average change in, greatest increase in, and greatest decrease in a set of financial profit data. Since the baseline data was provided in CSV format, Python was used to clean and process the data, as well as calculate the desired outputs.
