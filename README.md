@@ -4,7 +4,7 @@ The goal of this project was to identify the candidates, vote totals, vote distr
 
 ---
 
-## Financial Analysis
+## Election Results Analysis
 
 * Created a Python script for analyzing the financial records of a company.
 
@@ -44,6 +44,13 @@ The goal of this project was to identify the candidates, vote totals, vote distr
 ![election_results](https://user-images.githubusercontent.com/64673015/117226687-cbe21800-adda-11eb-91aa-eba26546eaee.PNG)
 
 ---
+
+# 
+
+
+
+
+
 
 ![financial_analysis](https://user-images.githubusercontent.com/64673015/117226726-e1574200-adda-11eb-9c51-b7741d403020.PNG)
 
