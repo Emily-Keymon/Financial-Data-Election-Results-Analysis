@@ -37,7 +37,6 @@ https://github.com/Emily-Keymon/Financial-Data-Election-Results-Analysis/blob/ma
 
 
 ---
-
 ## Election Results Analysis
 The goal of this project was to identify the net total of, average change in, greatest increase in, and greatest decrease in a set of financial profit data. Since the baseline data was provided in CSV format, Python was used to clean and process the data, as well as calculate the desired outputs.
 
@@ -61,11 +60,12 @@ https://github.com/Emily-Keymon/Financial-Data-Election-Results-Analysis/blob/ma
 
   * The winner of the election based on popular vote.
 
+---
 # Results
 
 ![election_results](https://user-images.githubusercontent.com/64673015/117226687-cbe21800-adda-11eb-91aa-eba26546eaee.PNG)
 
----
+
 
 
 
